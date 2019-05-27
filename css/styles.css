@@ -1,7 +1,7 @@
 body {
   color: darkmagenta;
   text-align: inherit;
-
+font-style: italic;
 }
 .logo{
   background-image: url("image.jpeg");
