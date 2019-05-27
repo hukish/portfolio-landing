@@ -19,7 +19,6 @@ This website contains information pertaining to me including my Background Infor
 * Contact me through my email: hudsonhukish@gmail.com
 * Live to  see  Messi play live always in my blood.
 * I might be  foolish but not on money my friend.
-* Damn ! No emojis here .
 * Went to Moringa schoool  only  new  sheng' ya mtaani, now mamas now mamas boy now know HTML.
 * I really hope I won't be deducted marks for goofing around:)
 
